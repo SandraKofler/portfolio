@@ -1,0 +1,15 @@
+* {
+    width: 80%;
+    margin: auto;
+    padding: 0.25%;
+}
+
+.titulo{
+    color: #8a2be2
+
+}
+
+.fondo{
+    background: #d4a2be;
+    background-image: url (https://medias.musimundo.com/medias/00560105-146578-146578-01-146578-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wyMjYzOHxpbWFnZS9qcGVnfGhkOC9oMTkvMTAzOTQyODQ1MjM1NTAvMDA1NjAxMDUtMTQ2NTc4LTE0NjU3OF8wMS0xNDY1NzhfMDEuanBnX3NpemU1MTV8NjkzMmRlZDg3YzgyMDkxMDA4YTQ0NTZkOTdjZTllNjVmODk2Y2EzZmUyNjNjOTllZjM0NzIxNjcxZmI2OGJlZA);
+}
