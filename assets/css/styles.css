@@ -1,6 +1,6 @@
 * {
     width: 90%;
-    margin: auto;
+    margin: left;
     padding: 0.25%;
 }
 
@@ -12,3 +12,7 @@
 .fondo{
     background: #d4a2be;
     }
+
+.imagen{
+    width: 18rem;
+}
