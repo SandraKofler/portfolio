@@ -1,7 +1,7 @@
 * {
-    width: 90%;
-    margin: left;
-    padding: 0.25%;
+    width: 100%;
+    margin: 0;
+    padding: 0.5%;
 }
 
 .titulo{
@@ -14,5 +14,8 @@
     }
 
 .imagen{
-    width: 18rem;
+        width: 30%;
+        margin: 100;
+        padding: 0.25%;
 }
+
